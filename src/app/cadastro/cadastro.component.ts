@@ -20,6 +20,5 @@ export class CadastroComponent implements OnInit {
     } else {
       alert('Formulário invalido');
     }
-    console.log(form.controls);
   }
 }
